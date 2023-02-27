@@ -1,0 +1,14 @@
+import * as block_1 from './block.js';
+export { block_1 as block };
+import * as functionDeclaration_1 from './functionDeclaration.js';
+export { functionDeclaration_1 as functionDeclaration };
+import * as mappedTypeNode_1 from './mappedTypeNode.js';
+export { mappedTypeNode_1 as mappedTypeNode };
+import * as parameterDeclaration_1 from './parameterDeclaration.js';
+export { parameterDeclaration_1 as parameterDeclaration };
+import * as sourceFile_1 from './sourceFile.js';
+export { sourceFile_1 as sourceFile };
+import * as typeAliasDeclaration_1 from './typeAliasDeclaration.js';
+export { typeAliasDeclaration_1 as typeAliasDeclaration };
+import * as typeParameterDeclaration_1 from './typeParameterDeclaration.js';
+export { typeParameterDeclaration_1 as typeParameterDeclaration };
